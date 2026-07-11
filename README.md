@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manisha</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | AI/ML Enthusiast</h3>
+<h3 align="center">Aspiring Machine Learning Engineer | Data Science & AI/ML Enthusiast</h3>
 
 ---
 
