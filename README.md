@@ -2,8 +2,8 @@
 <h3 align="center">Machine Learning | Data Science | Data Analytics</h3>
  
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/manisha-dutt/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ManishaDutt11" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:manishadutta1109@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 ---
@@ -17,7 +17,7 @@
 - 💼 Former Machine Learning Intern at **Prodigy Infotech**
 - 🌱 Currently seeking a **Machine Learning / Data Science / Data Analyst** role to apply my technical expertise to real-world business challenges
 - 📍 Based in Gurugram, Haryana, India
-- 📫 Reach me at **manishadutta1109@gmail.com** | +91 9910987675
+- 📫 Reach me at **manishadutta1109@gmail.com** 
 ---
  
 ### 🧰 Tech Stack & Tools
@@ -91,11 +91,7 @@
 - 💡 Smart India Hackathon — Participant, Sep 2023 – Dec 2023 (Coal logistics data analysis)
 ---
  
-### 📊 GitHub Stats
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" alt="GitHub Streak" />
 </p>
