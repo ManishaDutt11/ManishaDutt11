@@ -57,9 +57,9 @@
 </p>
 ---
  
-### 💼 Featured Projects
+### 💼 Projects
  
-#### 🎓 [Student Exam Performance Predictor](#)
+#### 🎓 Student Exam Performance Predictor
 `Python` `Scikit-Learn` `Flask` `Render`
 - Built an end-to-end ML pipeline with 8+ reusable modules for data processing, model training, and inference
 - Evaluated 6+ ML models and integrated the best model (R² score: 0.88) into a Flask app for real-time prediction (<1s)
@@ -70,7 +70,7 @@
 `Python` `Pandas` `Scikit-Learn` `Random Forest` `Matplotlib` `Seaborn`
 - Built a Random Forest regression model achieving a 95% R² score to predict customer purchase behavior
 - Applied data preprocessing, feature engineering, and model optimization to boost prediction accuracy
-#### 🔥 [Forest Fire Risk Prediction System](#)
+#### 🔥 Forest Fire Risk Prediction System
 `Python` `NumPy` `Pandas` `Scikit-Learn` `EDA` `Regression Modeling` `Cross-Validation`
 - Built an end-to-end FWI prediction system with data cleaning, EDA, outlier treatment, and feature scaling
 - Evaluated 4 regression models (Linear, Ridge, Lasso, ElasticNet) and optimized regularization (RidgeCV, LassoCV, ElasticNetCV), improving performance by 4–5%
@@ -91,10 +91,3 @@
 - 💡 Smart India Hackathon — Participant, Sep 2023 – Dec 2023 (Coal logistics data analysis)
 ---
  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" alt="GitHub Streak" />
-</p>
----
- 
-<p align="center"><i>💡 Replace "YOUR_GITHUB_USERNAME" and the "#" project links with your actual GitHub username and repository URLs.</i></p>
