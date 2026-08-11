@@ -100,7 +100,7 @@ A content-based recommender that actually feels snappy to use.
 - Serves top-10 similar movies in real time via TF-IDF + cosine similarity
 - Built a searchable Streamlit front end with sub-1-second response time
 
-#### 🔥 [Forest Fire Risk Prediction System] (https://github.com/ManishaDutt11/linear-regression-project)
+#### 🔥 [Forest Fire Risk Prediction System](https://github.com/ManishaDutt11/linear-regression-project)
 `Python` · `NumPy` · `Pandas` · `Scikit-Learn` · `EDA` · `Regression Modeling` · `Cross-Validation`
 
 - End-to-end FWI (Fire Weather Index) prediction system: cleaning, EDA, outlier treatment, feature scaling
