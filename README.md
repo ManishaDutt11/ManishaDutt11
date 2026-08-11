@@ -23,7 +23,6 @@ I'm a BCA (AI & ML) graduate from Shree Guru Govind Singh Tricentenary Universit
 - 💼 Was a Machine Learning Intern at **Prodigy Infotech**, where I learned that "it works on my machine" is not a deployment strategy
 - 🌱 Right now: job-hunting for a **Data Scientist** role where I can point predictive modeling at real business problems instead of Kaggle leaderboards
 - 📍 Gurugram, Haryana, India
-- ⚡ Fun fact: I once cut a model's preprocessing time by 30% and then immediately went looking for the next 30% to cut
 
 ---
 
