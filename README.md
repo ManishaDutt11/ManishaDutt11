@@ -76,7 +76,7 @@ I'm a BCA (AI & ML) graduate from Shree Guru Govind Singh Tricentenary Universit
 
 ### 💼 Featured Projects
 
-#### 🎓 [Student Exam Performance Predictor](https://github.com/ManishaDutt11)
+#### 🎓 [Student Exam Performance Predictor](https://github.com/ManishaDutt11/ml-project)
 `Python` · `Scikit-Learn` · `XGBoost` · `CatBoost` · `Ensemble Learning` · `Flask` · `Render`
 
 An end-to-end ML pipeline — not just a notebook — built with 8+ reusable modules covering data processing, training, and inference.
@@ -100,13 +100,7 @@ A content-based recommender that actually feels snappy to use.
 - Serves top-10 similar movies in real time via TF-IDF + cosine similarity
 - Built a searchable Streamlit front end with sub-1-second response time
 
-#### 🏖️ Holiday Package Purchase Prediction
-`Python` · `Pandas` · `Scikit-Learn` · `Random Forest` · `Matplotlib` · `Seaborn`
-
-- Random Forest regression model hitting a **95% R² score** predicting customer purchase behavior
-- Preprocessing, feature engineering, and tuning aimed squarely at prediction accuracy
-
-#### 🔥 Forest Fire Risk Prediction System
+#### 🔥 [Forest Fire Risk Prediction System] (https://github.com/ManishaDutt11/linear-regression-project)
 `Python` · `NumPy` · `Pandas` · `Scikit-Learn` · `EDA` · `Regression Modeling` · `Cross-Validation`
 
 - End-to-end FWI (Fire Weather Index) prediction system: cleaning, EDA, outlier treatment, feature scaling
